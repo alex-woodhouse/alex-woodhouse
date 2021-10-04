@@ -12,16 +12,6 @@ I'm a 4th year Software Engineering MSci student at Lancaster University
 * 🤓 Interested in Business & entrepreneurship, Video editing & cinematography, Non-fiction reading, Investing
 * 😄 Pronouns: He/him
 
-## 🏢 Work
-### Forumm
-I've been a contractor with [448 Studio LTD](https://www.448.studio/) since June 2020 working on the [Forumm](https://www.forumm.events/) virtual and hybrid events platform. Below are a handful of screenshots of the Forumm platform:
-
-![Forumm Registration](https://github.com/alex-woodhouse/alex-woodhouse/blob/main/images/forumm-event-registration.png)
-
-![Forumm App](https://github.com/alex-woodhouse/alex-woodhouse/blob/main/images/forumm-event-app.png)
-
-![Forumm Vonage](https://github.com/alex-woodhouse/alex-woodhouse/blob/main/images/forumm-event-vonage.png)
-
 ## 📚 Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alex-woodhouse&repo=portfolio-site&theme=radical)](https://github.com/alex-woodhouse/portfolio-site)
 
@@ -38,3 +28,12 @@ I've been a contractor with [448 Studio LTD](https://www.448.studio/) since June
 ### Learning
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 
+## 🏢 Work
+### Forumm
+I've been a contractor with [448 Studio LTD](https://www.448.studio/) since June 2020 working on the [Forumm](https://www.forumm.events/) virtual and hybrid events platform. Below are a handful of screenshots of the Forumm platform:
+
+![Forumm Registration](https://github.com/alex-woodhouse/alex-woodhouse/blob/main/images/forumm-event-registration.png)
+
+![Forumm App](https://github.com/alex-woodhouse/alex-woodhouse/blob/main/images/forumm-event-app.png)
+
+![Forumm Vonage](https://github.com/alex-woodhouse/alex-woodhouse/blob/main/images/forumm-event-vonage.png)
