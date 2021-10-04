@@ -1,7 +1,7 @@
 ![Banner Image](https://raw.githubusercontent.com/alex-woodhouse/alex-woodhouse/main/images/banner.gif)
 
 ## 📊 Stats
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-woodhouse&count_private=true&theme=radical)](https://github.com/alex-woodhouse/github-readme-stats)
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-woodhouse&count_private=true&theme=radical&hide=stars,prs,issues,contribs)](https://github.com/alex-woodhouse/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-woodhouse&theme=radical)](https://github.com/alex-woodhouse/github-readme-stats)
 
