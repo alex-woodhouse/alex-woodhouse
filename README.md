@@ -23,9 +23,9 @@ I've been a contractor with [448 Studio LTD](https://www.448.studio/) since June
 ![Forumm Vonage](https://github.com/alex-woodhouse/alex-woodhouse/blob/main/images/forumm-event-vonage.png)
 
 ## 📚 Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alex-woodhouse&repo=portfolio-site&theme=radical)](https://github.com/alex-woodhouse/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alex-woodhouse&repo=portfolio-site&theme=radical)](https://github.com/alex-woodhouse/portfolio-site)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alex-woodhouse&repo=campus-bites-vue&theme=radical)](https://github.com/alex-woodhouse/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alex-woodhouse&repo=campus-bites-vue&theme=radical)](https://github.com/alex-woodhouse/campus-bites-vue)
 
 ## 🌟 My Skills
 ### Backend
