@@ -1,8 +1,13 @@
-### Hi there. I'm Alex 👋
+## 🏢 Work
 
-<!--
-**alex-woodhouse/alex-woodhouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 Projects
 
-[![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alex-woodhouse&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+## 🌟 My Skills
+### Backend
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+### Frontend
+
+## 📊 Stats
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-woodhouse&count_private=true&theme=nightowl)](https://github.com/alex-woodhouse/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-woodhouse&theme=nightowl)](https://github.com/alex-woodhouse/github-readme-stats)
